@@ -1751,3 +1751,1111 @@ Continue: Skip saving this asset only.
 [2022.11.18-07.01.37:124][ 34]LogContentValidation: Display: Validating HookablePawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HookablePawn_C_UAID_3C7C3F51A661AD4A01_1135444754
 [2022.11.18-07.02.18:675][333]LogSlate: Window 'Message Log' being destroyed
 [2022.11.18-07.02.18:689][333]LogSlate: Window 'Message Log' being destroyed
+[2022.11.18-07.04.25:354][964]LogSlate: Window 'Source Control Login' being destroyed
+[2022.11.18-07.04.32:869][343]LogSlate: Window 'Check Out Assets' being destroyed
+[2022.11.18-07.04.48:265][343]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2022.11.18-07.04.48:270][343]Message dialog closed, result: Cancel, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW
+[2022.11.18-07.05.06:413][343]LogSlate: Window 'Check Out Assets' being destroyed
+[2022.11.18-07.05.06:659][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.18-07.05.06:686][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.18-07.05.06:707][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.18-07.05.06:981][343]SourceControl: Error: Updated 0 paths from the index
+[2022.11.18-07.05.07:302][343]SourceControl: Error: fatal: git rm: 'BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset': Invalid argument
+[2022.11.18-07.05.07:302][343]SourceControl: rm 'BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2022.11.18-07.05.07:302][343]SourceControl: rm 'BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2022.11.18-07.05.07:302][343]SourceControl: rm 'BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2022.11.18-07.05.07:306][343]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2022.11.18-07.05.07:309][343]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V2/QLFDFUQZZTYJIOQY9MX00J
+[2022.11.18-07.05.07:309][343]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/QLFDFUQZZTYJIOQY9MX00J8C315B264F150316B171E3B676711D3D.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V2/QLFDFUQZZTYJIOQY9MX00J.uasset'
+[2022.11.18-07.05.07:312][343]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV
+[2022.11.18-07.05.07:312][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.07:813][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.08:314][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.08:814][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.09:315][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.09:815][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.10:316][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.10:816][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.11:317][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.11:818][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.12:319][343]LogFileManager: Error: Error moving file '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HLU5Z61WU98PL2DC7ERHLVFA4CCAD946CA43E54B3EE4A9465C1AE5.tmp'.
+[2022.11.18-07.05.12:319][343]LogSavePackage: Warning: Failed to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset' to temp directory
+[2022.11.18-07.05.12:319][343]LogSavePackage: Error: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset'
+[2022.11.18-07.05.15:305][343]LogSlate: Window 'Message' being destroyed
+[2022.11.18-07.05.15:310][343]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV' (HLU5Z61WU98PL2DC7ERHLV.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.11.18-07.05.15:312][343]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5
+[2022.11.18-07.05.15:312][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.15:814][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.16:315][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.16:815][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.17:316][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.17:817][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.18:318][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.18:819][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.19:320][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.19:821][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.20:322][343]LogFileManager: Error: Error moving file '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/93JFKLCWVWHVB97NSK84D54462224B4292163F9A3383A01E2A3578.tmp'.
+[2022.11.18-07.05.20:322][343]LogSavePackage: Warning: Failed to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset' to temp directory
+[2022.11.18-07.05.20:322][343]LogSavePackage: Error: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset'
+[2022.11.18-07.05.46:388][343]LogSlate: Window 'Message' being destroyed
+[2022.11.18-07.05.46:394][343]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5' (93JFKLCWVWHVB97NSK84D5.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.11.18-07.05.46:396][343]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2022.11.18-07.05.46:396][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.46:897][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.47:397][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.47:898][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.48:399][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.48:900][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.49:400][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.49:901][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.50:402][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.50:902][343]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.05.51:403][343]LogFileManager: Error: Error moving file '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/NG2R9BPZVA7ZDN0Z4VSTG6456B05534F1C663DD5D007B2CFB099D3.tmp'.
+[2022.11.18-07.05.51:403][343]LogSavePackage: Warning: Failed to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset' to temp directory
+[2022.11.18-07.05.51:403][343]LogSavePackage: Error: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2022.11.18-07.07.49:037][343]LogSlate: Window 'Message' being destroyed
+[2022.11.18-07.07.49:042][343]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6' (NG2R9BPZVA7ZDN0Z4VSTG6.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.11.18-07.07.49:087][343]EditorErrors: New page: Save Output
+[2022.11.18-07.07.49:087][343]EditorErrors: Warning: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV.uasset'
+[2022.11.18-07.07.49:087][343]EditorErrors: Warning: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5.uasset'
+[2022.11.18-07.07.49:087][343]EditorErrors: Warning: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2022.11.18-07.07.50:467][343]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.11.18-07.07.50:473][343]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G6/HLU5Z61WU98PL2DC7ERHLV
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KJ/93JFKLCWVWHVB97NSK84D5
+[2022.11.18-07.07.50:480][343]AssetCheck: New page: Asset Save: PostProcessVolume_UAID_3C7C3F51A661AC4A01_1806126575
+[2022.11.18-07.07.50:480][343]LogContentValidation: Display: Validating PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_UAID_3C7C3F51A661AC4A01_1806126575
+[2022.11.18-07.08.50:707][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.18-07.09.01:582][486]LogSlate: Window 'Save Content' being destroyed
+[2022.11.18-07.09.25:465][104]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.11.18-07.09.58:359][288]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.18-07.09.58:368][288]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.18-07.09.58:375][288]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.18-07.10.00:131][288]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2022.11.18-07.10.00:132][288]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.18-07.10.02:478][288]LogSlate: Window 'Save Level As' being destroyed
+[2022.11.18-07.10.02:574][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.18-07.10.02:594][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-07.10.04:732][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/YB/CXB5FCJREYRROJOW77R3DB
+[2022.11.18-07.10.04:732][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/CXB5FCJREYRROJOW77R3DB904587E4474A4D361A3E2FABE5B29FDD.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/A/YB/CXB5FCJREYRROJOW77R3DB.uasset'
+[2022.11.18-07.10.04:735][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/OC/FH660WCFOA89NQ2GVVA7PX
+[2022.11.18-07.10.04:735][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/FH660WCFOA89NQ2GVVA7PXAC0057304242FF7CEE3CB18C0B858FC0.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/9/OC/FH660WCFOA89NQ2GVVA7PX.uasset'
+[2022.11.18-07.10.04:737][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/4/EL/SX7OSDFNSWFKG4MJHKB77O
+[2022.11.18-07.10.04:737][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/SX7OSDFNSWFKG4MJHKB77OB63DBB524FBA90DFEC6303B98E20A24F.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/4/EL/SX7OSDFNSWFKG4MJHKB77O.uasset'
+[2022.11.18-07.10.04:738][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/IS/FVW5MMMUN1G0IHUBH09G9U
+[2022.11.18-07.10.04:739][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/FVW5MMMUN1G0IHUBH09G9UE3D61AE3487C1132ABE250AE4968383A.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/B/IS/FVW5MMMUN1G0IHUBH09G9U.uasset'
+[2022.11.18-07.10.04:741][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/F7/PTXBF04JH08MIMSNEMVVKF
+[2022.11.18-07.10.04:741][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/PTXBF04JH08MIMSNEMVVKFE97875E84BC61836D93CC1B4D3D8FB0C.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/0/F7/PTXBF04JH08MIMSNEMVVKF.uasset'
+[2022.11.18-07.10.04:743][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/09/IEZ1D1ZYJ294VMOHD5URNH
+[2022.11.18-07.10.04:743][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/IEZ1D1ZYJ294VMOHD5URNHE977EEF54DD31B954E6B6CBD35B466BB.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/7/09/IEZ1D1ZYJ294VMOHD5URNH.uasset'
+[2022.11.18-07.10.04:745][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/TI/FP5T6TFBUL3DFC38U7SBUB
+[2022.11.18-07.10.04:745][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/FP5T6TFBUL3DFC38U7SBUB29A896124818CBF06CC7C9B0BE82E488.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/9/TI/FP5T6TFBUL3DFC38U7SBUB.uasset'
+[2022.11.18-07.10.04:747][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/T0/V3TJ7WEIPDTBQUBMGTF0WV
+[2022.11.18-07.10.04:747][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/V3TJ7WEIPDTBQUBMGTF0WVD225384545A17A4DBA01819941F00112.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/C/T0/V3TJ7WEIPDTBQUBMGTF0WV.uasset'
+[2022.11.18-07.10.04:749][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/KL/WUDO4GK0LWXCFE6ICGNZIO
+[2022.11.18-07.10.04:750][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/WUDO4GK0LWXCFE6ICGNZIO4211198F43AB38C5244BE5A73EA480BF.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/2/KL/WUDO4GK0LWXCFE6ICGNZIO.uasset'
+[2022.11.18-07.10.04:752][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/XM/SH3C2CBMGCG02X6D4VDLPW
+[2022.11.18-07.10.04:752][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/SH3C2CBMGCG02X6D4VDLPWB4708CC9470A2A692FCBD1ADB114F871.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/2/XM/SH3C2CBMGCG02X6D4VDLPW.uasset'
+[2022.11.18-07.10.04:754][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/2O/OEWTM1WWUTAZIQMTBYDC5O
+[2022.11.18-07.10.04:754][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/OEWTM1WWUTAZIQMTBYDC5O16173D164EDDADD8B241BD948987A7D0.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/9/2O/OEWTM1WWUTAZIQMTBYDC5O.uasset'
+[2022.11.18-07.10.04:756][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/6/5B/WKXCKANXR3CBAQPHQ9GMMW
+[2022.11.18-07.10.04:756][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/WKXCKANXR3CBAQPHQ9GMMW474529EA4F043E39B98E3BAE6ABE3BB7.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/6/5B/WKXCKANXR3CBAQPHQ9GMMW.uasset'
+[2022.11.18-07.10.04:758][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/8/DM/RJV43WF0A515CNPZMPA973
+[2022.11.18-07.10.04:758][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/RJV43WF0A515CNPZMPA97312BAD128459076F527E92C8F38DD4BC0.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/8/DM/RJV43WF0A515CNPZMPA973.uasset'
+[2022.11.18-07.10.04:760][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/F/0O/2GD406T29WEA2HDXH9QRP9
+[2022.11.18-07.10.04:761][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/2GD406T29WEA2HDXH9QRP9D98226EA433A366FED2558BCAD066887.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/F/0O/2GD406T29WEA2HDXH9QRP9.uasset'
+[2022.11.18-07.10.04:763][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/YR/495N763HFXBIS4JK2FYIBC
+[2022.11.18-07.10.04:763][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/495N763HFXBIS4JK2FYIBCBB1FF226436A413BD6532D8B46F3A0AC.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/0/YR/495N763HFXBIS4JK2FYIBC.uasset'
+[2022.11.18-07.10.04:764][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/X6/IZY0BXNTR2E4443P922E64
+[2022.11.18-07.10.04:764][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/IZY0BXNTR2E4443P922E64DF56BB5D41BD2E7C46AD1ABEA1868CCD.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/C/X6/IZY0BXNTR2E4443P922E64.uasset'
+[2022.11.18-07.10.04:766][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/B3/SMNQBOWJ7DGTZGXLC9RV5N
+[2022.11.18-07.10.04:766][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/SMNQBOWJ7DGTZGXLC9RV5N393F55D8491DD7E9F79C4AB64B0481AA.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/E/B3/SMNQBOWJ7DGTZGXLC9RV5N.uasset'
+[2022.11.18-07.10.04:769][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/C4/PVR53AUDDY923M0TS25560
+[2022.11.18-07.10.04:769][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/PVR53AUDDY923M0TS25560D8AB13624437FDE4F14A6A9616AA94F4.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/E/C4/PVR53AUDDY923M0TS25560.uasset'
+[2022.11.18-07.10.04:771][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/YM/FNPUMGQ8M6RHF1ZAAYQZPY
+[2022.11.18-07.10.04:771][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/FNPUMGQ8M6RHF1ZAAYQZPY5A1BF8824FAA362E2AB7858BE85316B5.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/D/YM/FNPUMGQ8M6RHF1ZAAYQZPY.uasset'
+[2022.11.18-07.10.04:773][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/AO/6XML5P7WEHM08R1VRSFPNN
+[2022.11.18-07.10.04:773][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/6XML5P7WEHM08R1VRSFPNNA030AF71410D55F88D4710ADBE2BBCC5.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/C/AO/6XML5P7WEHM08R1VRSFPNN.uasset'
+[2022.11.18-07.10.04:775][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/A3/MQKQBRSCK5O3T1DGSATWY0
+[2022.11.18-07.10.04:775][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/MQKQBRSCK5O3T1DGSATWY0988D99954B92628D2E37E292989AAB11.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/3/A3/MQKQBRSCK5O3T1DGSATWY0.uasset'
+[2022.11.18-07.10.04:777][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/8/9G/VZCSL51E910761BRKCFR2F
+[2022.11.18-07.10.04:777][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/VZCSL51E910761BRKCFR2FF5B1A039486327577AD13DBB57FE418D.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/8/9G/VZCSL51E910761BRKCFR2F.uasset'
+[2022.11.18-07.10.04:778][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/UJ/SLCUWBID99I885SSP8U5WD
+[2022.11.18-07.10.04:779][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/SLCUWBID99I885SSP8U5WD621865B1458D47DB24177D9FB9CDEBE8.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/C/UJ/SLCUWBID99I885SSP8U5WD.uasset'
+[2022.11.18-07.10.04:780][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/1/1G/WHY5CYRZLWQXKUQQ9OCBGQ
+[2022.11.18-07.10.04:780][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/WHY5CYRZLWQXKUQQ9OCBGQ5741280C42878A83376BD2A522DB86B2.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/1/1G/WHY5CYRZLWQXKUQQ9OCBGQ.uasset'
+[2022.11.18-07.10.04:783][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/6/98/5PGJ2VVQE6I4CSJYK4CYGP
+[2022.11.18-07.10.04:783][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/5PGJ2VVQE6I4CSJYK4CYGPC6F004F64FDA646FEBB8CB8F8E5617F9.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/6/98/5PGJ2VVQE6I4CSJYK4CYGP.uasset'
+[2022.11.18-07.10.04:784][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/4/82/U43Q0G61JGSFZ64JPUIOIS
+[2022.11.18-07.10.04:785][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/U43Q0G61JGSFZ64JPUIOISAA01CC4F4BED5475D66BC89C93C97B8D.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/4/82/U43Q0G61JGSFZ64JPUIOIS.uasset'
+[2022.11.18-07.10.04:786][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/W7/23XIHXRFI3MAC4FG26IMSU
+[2022.11.18-07.10.04:786][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/23XIHXRFI3MAC4FG26IMSUEAA70DEA48023A1D4A3125804B524AD0.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/7/W7/23XIHXRFI3MAC4FG26IMSU.uasset'
+[2022.11.18-07.10.04:788][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/AN/WRUHYIRTWJCFAL6VDYF6SP
+[2022.11.18-07.10.04:788][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/WRUHYIRTWJCFAL6VDYF6SPE876E559439B74472B6F74A16C5D3264.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/7/AN/WRUHYIRTWJCFAL6VDYF6SP.uasset'
+[2022.11.18-07.10.04:790][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/TO/L9DLGQR0XJNX1H1MKLODMT
+[2022.11.18-07.10.04:791][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/L9DLGQR0XJNX1H1MKLODMTC5E8BDA54A73D8CD0161788BCD86CBED.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/A/TO/L9DLGQR0XJNX1H1MKLODMT.uasset'
+[2022.11.18-07.10.04:792][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/LT/HRERZWS48NA6A2S3PAI70T
+[2022.11.18-07.10.04:792][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/HRERZWS48NA6A2S3PAI70TC5C1F5994FB66C9C4DE2BF99C11924D9.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/0/LT/HRERZWS48NA6A2S3PAI70T.uasset'
+[2022.11.18-07.10.04:794][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/HA/ISM7IVSNFC12IWDL1LOEFY
+[2022.11.18-07.10.04:794][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/ISM7IVSNFC12IWDL1LOEFYAF62C06D467ABD4B7E88509E6748B9CF.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/E/HA/ISM7IVSNFC12IWDL1LOEFY.uasset'
+[2022.11.18-07.10.04:796][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/V4/K6GVEYR83R1QRT2CJWX1ZK
+[2022.11.18-07.10.04:796][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/K6GVEYR83R1QRT2CJWX1ZK9D38A3D04DA18C02082C29B7C1D94491.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/0/V4/K6GVEYR83R1QRT2CJWX1ZK.uasset'
+[2022.11.18-07.10.04:798][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/UR/4APB56O84BTCU3EIZETB65
+[2022.11.18-07.10.04:798][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/4APB56O84BTCU3EIZETB659F09CF88469D476F94441FB91C53F6DA.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/A/UR/4APB56O84BTCU3EIZETB65.uasset'
+[2022.11.18-07.10.04:800][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/VB/8IH6IERQ4QCVSRZC06RLEL
+[2022.11.18-07.10.04:800][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/8IH6IERQ4QCVSRZC06RLELEF6450D54F8B89020E9CB785B9BBF823.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/A/VB/8IH6IERQ4QCVSRZC06RLEL.uasset'
+[2022.11.18-07.10.04:802][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/S5/64WBU3DBXZ2QTMTBEWKLBK
+[2022.11.18-07.10.04:802][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/64WBU3DBXZ2QTMTBEWKLBK7AA03601456DEC4F04BD7E9CFFC21B02.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/5/S5/64WBU3DBXZ2QTMTBEWKLBK.uasset'
+[2022.11.18-07.10.04:804][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/MK/JPPY11N10JVC8V2SHKKIBL
+[2022.11.18-07.10.04:804][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/JPPY11N10JVC8V2SHKKIBL929EC5C74EFB84D0EA6217A74BF61E21.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/E/MK/JPPY11N10JVC8V2SHKKIBL.uasset'
+[2022.11.18-07.10.04:806][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/G8/DQNZ8N0BXJUK1GD6TP4S9K
+[2022.11.18-07.10.04:806][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/DQNZ8N0BXJUK1GD6TP4S9KD9C320BC49B93C2DB8004AB73914E924.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/3/G8/DQNZ8N0BXJUK1GD6TP4S9K.uasset'
+[2022.11.18-07.10.04:808][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/PP/W5A29IRX2RE5ZSOFHLT7S7
+[2022.11.18-07.10.04:808][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/W5A29IRX2RE5ZSOFHLT7S7134872064EF9DCEF8A4328A35F867930.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/9/PP/W5A29IRX2RE5ZSOFHLT7S7.uasset'
+[2022.11.18-07.10.04:810][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/P1/APAQXBIM2Y8L1U45XXXGWK
+[2022.11.18-07.10.04:811][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/APAQXBIM2Y8L1U45XXXGWK2F38F1264A78ADD02B2BFCA0834E803C.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/7/P1/APAQXBIM2Y8L1U45XXXGWK.uasset'
+[2022.11.18-07.10.04:813][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/7Q/2COU0V4ZOVV9MTBWAD0844
+[2022.11.18-07.10.04:813][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/2COU0V4ZOVV9MTBWAD0844ECF12A9B49E0EAB7C1C4E0A70E960055.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/0/7Q/2COU0V4ZOVV9MTBWAD0844.uasset'
+[2022.11.18-07.10.04:815][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/DI/DT4Q22OVOAJKU3P64486C2
+[2022.11.18-07.10.04:815][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/DT4Q22OVOAJKU3P64486C283838D18480027946AF8339DEC2CF333.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/D/DI/DT4Q22OVOAJKU3P64486C2.uasset'
+[2022.11.18-07.10.04:817][288]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/G2/JTQ0CQIYAOKAULJ805GKW1
+[2022.11.18-07.10.04:817][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/JTQ0CQIYAOKAULJ805GKW1AFE700B14B8E6C72FEDC14A53BC91004.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalActors__/Levels/TestMap/5/G2/JTQ0CQIYAOKAULJ805GKW1.uasset'
+[2022.11.18-07.10.04:819][288]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/7/MF/J1VQBZZD8QUSSBEVRSFM0K
+[2022.11.18-07.10.04:819][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/J1VQBZZD8QUSSBEVRSFM0K2DB8450849AA8BEF095C37920535973D.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalObjects__/Levels/TestMap/7/MF/J1VQBZZD8QUSSBEVRSFM0K.uasset'
+[2022.11.18-07.10.04:822][288]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/B/TO/MJP5E6D8YAAVTB8U5VB3F6
+[2022.11.18-07.10.04:822][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/MJP5E6D8YAAVTB8U5VB3F646B2150F4128371226A2038377E0D329.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalObjects__/Levels/TestMap/B/TO/MJP5E6D8YAAVTB8U5VB3F6.uasset'
+[2022.11.18-07.10.04:824][288]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/1/4O/VQ9T3S8NPDVOWY93VAAOBY
+[2022.11.18-07.10.04:824][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/VQ9T3S8NPDVOWY93VAAOBY097FD5DE4A34B92B45E31FBADF8D1FB9.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalObjects__/Levels/TestMap/1/4O/VQ9T3S8NPDVOWY93VAAOBY.uasset'
+[2022.11.18-07.10.04:825][288]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/8/IC/GCG2UPZIWWHFLHKBYNEU1A
+[2022.11.18-07.10.04:825][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/GCG2UPZIWWHFLHKBYNEU1A4C0B8E3F4FFD459672C113825C5135EF.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalObjects__/Levels/TestMap/8/IC/GCG2UPZIWWHFLHKBYNEU1A.uasset'
+[2022.11.18-07.10.04:827][288]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/1/23/BBZPWW2HI7ZN3QBMD0804J
+[2022.11.18-07.10.04:827][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/BBZPWW2HI7ZN3QBMD0804JDBF038374E3A75A5EE34728A52159599.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalObjects__/Levels/TestMap/1/23/BBZPWW2HI7ZN3QBMD0804J.uasset'
+[2022.11.18-07.10.04:829][288]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/0/96/A9LW9D24TMR6B79J2FR01E
+[2022.11.18-07.10.04:829][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/A9LW9D24TMR6B79J2FR01E9AE827824002DFE87A7B02BAAB793B8D.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/__ExternalObjects__/Levels/TestMap/0/96/A9LW9D24TMR6B79J2FR01E.uasset'
+[2022.11.18-07.10.09:521][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.11.18-07.10.09:525][288]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2022.11.18-07.10.09:525][288]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/TestMap71604D0E46BD797A48B0268A778AC679.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/Levels/TestMap.umap'
+[2022.11.18-07.10.09:692][288]LogFileHelpers: Saving map 'TestMap' took 7.205
+[2022.11.18-07.10.09:692][288]Cmd: MAP LOAD FILE="../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.18-07.10.09:692][288]LightingResults: New page: Lighting Build
+[2022.11.18-07.10.09:692][288]LoadErrors: New page: Loading map: TestMap.umap
+[2022.11.18-07.10.09:730][288]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.10.09:730][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-07.10.09:732][288]MapCheck: New page: Map Check
+[2022.11.18-07.10.09:732][288]LightingResults: New page: Lighting Build
+[2022.11.18-07.10.09:751][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.18-07.10.09:755][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.18-07.10.09:757][288]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.10.09:758][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-07.10.09:779][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.18-07.10.09:800][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.18-07.10.09:807][288]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2022.11.18-07.10.09:807][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-07.10.09:807][288]LogAIModule: Creating AISystem for world TestMap
+[2022.11.18-07.10.09:808][288]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.18-07.10.09:808][288]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.18-07.10.09:836][288]LogWorldPartition: Display: WorldPartition initialize took 27 ms
+[2022.11.18-07.10.09:840][288]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.18-07.10.09:863][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.18-07.10.09:870][288]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.18-07.10.09:871][288]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.246ms to complete.
+[2022.11.18-07.10.09:871][288]LogFileHelpers: Loading map 'TestMap' took 0.180
+[2022.11.18-07.10.09:877][288]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.18-07.10.09:877][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_20
+[2022.11.18-07.10.09:877][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_13
+[2022.11.18-07.10.09:877][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_15
+[2022.11.18-07.10.09:877][288]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/Levels/TestMap.TestMap:PersistentLevel.WorldPartitionMiniMap_0
+[2022.11.18-07.10.09:877][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_18
+[2022.11.18-07.10.09:877][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_22
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_4
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating DirectionalLight /Game/Levels/TestMap.TestMap:PersistentLevel.DirectionalLight_0
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating SkyLight /Game/Levels/TestMap.TestMap:PersistentLevel.SkyLight_1
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_16
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating PostProcessVolume /Game/Levels/TestMap.TestMap:PersistentLevel.PostProcessVolume_UAID_3C7C3F51A661AC4A01_1806126575
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_32
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_34
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_23
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_19
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_7
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating HookablePawn_C /Game/Levels/TestMap.TestMap:PersistentLevel.HookablePawn_C_UAID_3C7C3F51A661AD4A01_1135444754
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating TextRenderActor /Game/Levels/TestMap.TestMap:PersistentLevel.TextRenderActor_1
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_0
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating PhysicsVolume /Game/Levels/TestMap.TestMap:PersistentLevel.PhysicsVolume_UAID_3C7C3F51A661123401_1914221240
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_9
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_14
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating ExponentialHeightFog /Game/Levels/TestMap.TestMap:PersistentLevel.ExponentialHeightFog_0
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_25
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating HookablePawn_C /Game/Levels/TestMap.TestMap:PersistentLevel.HookablePawn_C_UAID_3C7C3F51A661AD4A01_1131614753
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_3
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_12
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating SkyAtmosphere /Game/Levels/TestMap.TestMap:PersistentLevel.SkyAtmosphere_0
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_1
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating VolumetricCloud /Game/Levels/TestMap.TestMap:PersistentLevel.VolumetricCloud_0
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_6
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_8
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_33
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_5
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_21
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_24
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating HookablePawn_C /Game/Levels/TestMap.TestMap:PersistentLevel.HookablePawn_C_UAID_3C7C3F51A661AD4A01_1127859752
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating PlayerStart /Game/Levels/TestMap.TestMap:PersistentLevel.PlayerStart_0
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F51A661103401_1902024887
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating StaticMeshActor /Game/Levels/TestMap.TestMap:PersistentLevel.StaticMeshActor_35
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating ActorFolder /Game/Levels/TestMap.TestMap:PersistentLevel.ActorFolder_UID_EBA23F82-48252949-750E4391-1A3A1CDD
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating ActorFolder /Game/Levels/TestMap.TestMap:PersistentLevel.ActorFolder_UID_7D23E5AE-4C2A421F-86AF6986-D87E6D05
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating ActorFolder /Game/Levels/TestMap.TestMap:PersistentLevel.ActorFolder_UID_963EC3EB-4002CCE9-759E2EBA-541A873A
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating ActorFolder /Game/Levels/TestMap.TestMap:PersistentLevel.ActorFolder_UID_C73F09FC-4215536B-1DCE2A9E-0A830C70
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating ActorFolder /Game/Levels/TestMap.TestMap:PersistentLevel.ActorFolder_UID_7B7009C3-45D3D6DD-94D3429E-1D79C034
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating ActorFolder /Game/Levels/TestMap.TestMap:PersistentLevel.ActorFolder_UID_D075E5BA-49330D3E-C2503D81-A7CF88D1
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating WorldDataLayers /Game/Levels/TestMap.TestMap:PersistentLevel.WorldDataLayers
+[2022.11.18-07.10.09:878][288]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2022.11.18-07.10.15:497][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.18-07.10.17:196][851]LogSlate: Window 'Save Content' being destroyed
+[2022.11.18-07.10.17:412][851]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Player
+[2022.11.18-07.10.17:412][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.17:913][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.18:413][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.18:914][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.19:414][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.19:915][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.20:416][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.20:917][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.21:418][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.21:918][851]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.22:419][851]LogFileManager: Error: Error moving file '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player4C02F74D422746616D697A82662BF094.tmp'.
+[2022.11.18-07.10.22:419][851]LogSavePackage: Warning: Failed to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to temp directory
+[2022.11.18-07.10.22:419][851]LogSavePackage: Error: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset'
+[2022.11.18-07.10.29:232][851]LogSlate: Window 'Message' being destroyed
+[2022.11.18-07.10.29:238][851]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/ThirdPerson/Blueprints/Player' (Player.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.11.18-07.10.29:245][851]EditorErrors: New page: Save Output
+[2022.11.18-07.10.29:245][851]EditorErrors: Warning: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset'
+[2022.11.18-07.10.31:734][ 95]LogSlate: Window 'Message Log' being destroyed
+[2022.11.18-07.10.31:747][ 95]LogSlate: Window 'Message Log' being destroyed
+[2022.11.18-07.10.38:719][543]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Player.Player
+[2022.11.18-07.10.38:719][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-07.10.41:779][675]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Player
+[2022.11.18-07.10.41:779][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.42:281][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.42:782][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.43:283][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.43:783][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.44:285][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.44:786][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.45:287][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.45:788][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.46:288][675]LogFileManager: Warning: MoveFile was unable to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp' (Error Code 32), retrying in .5s...
+[2022.11.18-07.10.46:789][675]LogFileManager: Error: Error moving file '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/Player59CD0D6049B5C5A89E9FD68C81717DAA.tmp'.
+[2022.11.18-07.10.46:789][675]LogSavePackage: Warning: Failed to move '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset' to temp directory
+[2022.11.18-07.10.46:789][675]LogSavePackage: Error: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset'
+[2022.11.18-07.10.53:876][675]LogSlate: Window 'Message' being destroyed
+[2022.11.18-07.10.53:881][675]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/ThirdPerson/Blueprints/Player' (Player.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.11.18-07.10.53:889][675]EditorErrors: New page: Save Output
+[2022.11.18-07.10.53:889][675]EditorErrors: Warning: Error saving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/ThirdPerson/Blueprints/Player.uasset'
+[2022.11.18-07.10.55:509][774]LogSlate: Window 'Message Log' being destroyed
+[2022.11.18-07.10.55:516][774]LogSlate: Window 'Message Log' being destroyed
+[2022.11.18-07.11.12:240][943]LogSlate: Window 'Save Asset As' being destroyed
+[2022.11.18-07.11.12:346][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.18-07.11.12:586][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sub_plus/PlayerBP" FILE="../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/Sub_plus/PlayerBP.uasset" SILENT=true
+[2022.11.18-07.11.12:623][943]LogSavePackage: Moving output files for package: /Game/Sub_plus/PlayerBP
+[2022.11.18-07.11.12:623][943]LogSavePackage: Moving '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Saved/PlayerBP223A09E543126B13B75AA49352386BA5.tmp' to '../../../../../Users/AZ/Documents/GitHub/BreakfastBayDemo/BreakfastBayTest/Content/Sub_plus/PlayerBP.uasset'
+[2022.11.18-07.11.12:794][943]LogSlate: Window 'Player' being destroyed
+[2022.11.18-07.11.12:798][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sub_plus/PlayerBP.PlayerBP
+[2022.11.18-07.11.12:799][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.18-07.11.13:284][943]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.13:284][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-07.11.13:353][943]AssetCheck: New page: Asset Save: PlayerBP
+[2022.11.18-07.11.13:353][943]LogContentValidation: Display: Validating Blueprint /Game/Sub_plus/PlayerBP.PlayerBP
+[2022.11.18-07.11.32:661][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.18-07.11.40:592][321]LogSlate: Window 'Save Content' being destroyed
+[2022.11.18-07.11.40:601][321]LogStall: Shutdown...
+[2022.11.18-07.11.40:604][321]LogStall: Shutdown complete.
+[2022.11.18-07.11.40:626][321]LogSlate: Window 'PlayerBP' being destroyed
+[2022.11.18-07.11.40:668][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.18-07.11.40:668][321]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.40:668][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.18-07.11.40:734][321]LogSlate: Window 'WaterSimulation - Unreal Editor' being destroyed
+[2022.11.18-07.11.40:828][322]Cmd: QUIT_EDITOR
+[2022.11.18-07.11.40:829][322]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.18-07.11.40:832][322]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.18-07.11.40:832][322]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.11.18-07.11.40:832][322]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.11.18-07.11.41:302][322]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.18-07.11.41:302][322]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.18-07.11.41:302][322]LogAudio: Display: Audio Device unregistered from world 'TestMap'.
+[2022.11.18-07.11.41:302][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.18-07.11.41:304][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.18-07.11.41:310][322]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.18-07.11.41:314][322]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.18-07.11.41:314][322]LogExit: Preparing to exit.
+[2022.11.18-07.11.41:350][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:375][322]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.11.18-07.11.41:720][322]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:725][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:725][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:726][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:726][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:726][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:726][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:726][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:726][322]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:730][322]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:736][322]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:742][322]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:747][322]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:753][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:753][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:753][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:753][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:753][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:753][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:753][322]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.11.18-07.11.41:753][322]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:758][322]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:764][322]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:770][322]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:775][322]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:784][322]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.18-07.11.41:834][322]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.11.18-07.11.41:835][322]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.11.18-07.11.41:838][322]LogExit: Editor shut down
+[2022.11.18-07.11.41:840][322]LogExit: Transaction tracking system shut down
+[2022.11.18-07.11.41:845][322]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.18-07.11.42:169][322]LogExit: Object subsystem successfully closed.
+[2022.11.18-07.11.42:179][322]LogShaderCompilers: Display: ================================================
+[2022.11.18-07.11.42:179][322]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.18-07.11.42:179][322]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.18-07.11.42:179][322]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.18-07.11.42:179][322]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.18-07.11.42:179][322]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.18-07.11.42:179][322]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.18-07.11.42:180][322]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.18-07.11.42:180][322]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.18-07.11.42:180][322]LogShaderCompilers: Display: ================================================
+[2022.11.18-07.11.42:226][322]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.18-07.11.42:267][322]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (900)
+[2022.11.18-07.11.42:267][322]LogModuleManager: Shutting down and abandoning module BlueprintGraph (898)
+[2022.11.18-07.11.42:267][322]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (896)
+[2022.11.18-07.11.42:267][322]LogModuleManager: Shutting down and abandoning module Voice (894)
+[2022.11.18-07.11.42:267][322]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (892)
+[2022.11.18-07.11.42:267][322]LogModuleManager: Shutting down and abandoning module AddContentDialog (890)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module WidgetCarousel (889)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module SubobjectEditor (884)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module SceneOutliner (882)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module StatusBar (880)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (878)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module DataLayerEditor (876)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module StatsViewer (874)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (872)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module AutomationWorker (870)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (868)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module GooglePADEditor (866)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (864)
+[2022.11.18-07.11.42:268][322]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (862)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (860)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (858)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (856)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (854)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module WebMMedia (852)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module WaterEditor (850)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (848)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (846)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module SequenceRecorder (845)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (842)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (840)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (838)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (836)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (834)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module PlanarCut (832)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (830)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (828)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (826)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (824)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (822)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (820)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module CharacterAI (818)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module TextureAlignMode (816)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module BspMode (814)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module GeometryMode (812)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (810)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (808)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module IKRigEditor (806)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module ControlRigEditor (804)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module AnimationEditor (803)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module SmartSnapping (800)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module SessionServices (798)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module MeshPaint (796)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (794)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module PlacementMode (793)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module FoliageEdit (790)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module LandscapeEditor (788)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (786)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module ActorPickerMode (784)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module ViewportSnapping (782)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module EditorWidgets (780)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module ViewportInteraction (778)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module ClothPainter (776)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (775)
+[2022.11.18-07.11.42:269][322]LogModuleManager: Shutting down and abandoning module LogVisualizer (772)
+[2022.11.18-07.11.42:270][322]LogModuleManager: Shutting down and abandoning module IntroTutorials (770)
+[2022.11.18-07.11.42:270][322]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (768)
+[2022.11.18-07.11.42:270][322]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (766)
+[2022.11.18-07.11.42:270][322]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (765)
+[2022.11.18-07.11.42:270][322]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (763)
+[2022.11.18-07.11.42:335][322]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (760)
+[2022.11.18-07.11.42:335][322]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (758)
+[2022.11.18-07.11.42:335][322]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (756)
+[2022.11.18-07.11.42:335][322]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (754)
+[2022.11.18-07.11.42:335][322]LogModuleManager: Shutting down and abandoning module CSVtoSVG (752)
+[2022.11.18-07.11.42:335][322]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (750)
+[2022.11.18-07.11.42:335][322]LogModuleManager: Shutting down and abandoning module EditorConfig (748)
+[2022.11.18-07.11.42:335][322]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (746)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module EditorFramework (744)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (742)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module TraceInsights (740)
+[2022.11.18-07.11.42:336][322]MemoryProfiler: Shutdown
+[2022.11.18-07.11.42:336][322]NetworkingProfiler: Shutdown
+[2022.11.18-07.11.42:336][322]LoadingProfiler: Shutdown
+[2022.11.18-07.11.42:336][322]TimingProfiler: Shutdown
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module TraceServices (739)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (736)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (735)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module InputBindingEditor (732)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module MergeActors (730)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (728)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module LocalizationService (727)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module HardwareTargeting (724)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (722)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module UndoHistory (720)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module XmlParser (718)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module Blutility (716)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (714)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (713)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (710)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (709)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module SettingsEditor (706)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module ProjectLauncher (704)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module SessionFrontend (702)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module ProfilerClient (700)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module DeviceManager (698)
+[2022.11.18-07.11.42:336][322]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (697)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module AutomationController (694)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module AutomationWindow (692)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module Layers (690)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (688)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module DetailCustomizations (686)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module PackagesDialog (684)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (682)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module Persona (680)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (679)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module AnimGraph (677)
+[2022.11.18-07.11.42:347][322]LogModuleManager: Shutting down and abandoning module Kismet (674)
+[2022.11.18-07.11.42:359][322]LogModuleManager: Shutting down and abandoning module KismetWidgets (673)
+[2022.11.18-07.11.42:359][322]LogModuleManager: Shutting down and abandoning module GraphEditor (670)
+[2022.11.18-07.11.42:359][322]LogModuleManager: Shutting down and abandoning module StructViewer (668)
+[2022.11.18-07.11.42:359][322]LogModuleManager: Shutting down and abandoning module ClassViewer (666)
+[2022.11.18-07.11.42:359][322]LogModuleManager: Shutting down and abandoning module NaniteTools (664)
+[2022.11.18-07.11.42:359][322]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (662)
+[2022.11.18-07.11.42:359][322]LogModuleManager: Shutting down and abandoning module SourceControlWindows (660)
+[2022.11.18-07.11.42:359][322]LogModuleManager: Shutting down and abandoning module OutputLog (658)
+[2022.11.18-07.11.42:360][322]LogModuleManager: Shutting down and abandoning module Documentation (656)
+[2022.11.18-07.11.42:360][322]LogModuleManager: Shutting down and abandoning module LiveCoding (654)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (652)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module MovieScene (650)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (648)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module LauncherPlatform (646)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module AnalyticsET (644)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module PortalServices (642)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module PortalRpc (640)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module MessagingRpc (638)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (636)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module AudioMixer (635)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module AudioMixerCore (634)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module AIModule (630)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module GameplayDebugger (629)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module AITestSuite (627)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module NavigationSystem (625)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (622)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (620)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module TypedElementFramework (618)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (616)
+[2022.11.18-07.11.42:364][322]LogModuleManager: Shutting down and abandoning module ProfilerService (614)
+[2022.11.18-07.11.42:421][322]LogModuleManager: Shutting down and abandoning module TaskGraph (612)
+[2022.11.18-07.11.42:421][322]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (610)
+[2022.11.18-07.11.42:421][322]LogModuleManager: Shutting down and abandoning module MegascansPlugin (608)
+[2022.11.18-07.11.42:421][322]LogModuleManager: Shutting down and abandoning module Bridge (606)
+[2022.11.18-07.11.42:421][322]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (604)
+[2022.11.18-07.11.42:421][322]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (602)
+[2022.11.18-07.11.42:421][322]LogModuleManager: Shutting down and abandoning module InterchangePipelines (600)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module InterchangeExport (598)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module InterchangeMessages (596)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module InterchangeImport (594)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module InterchangeNodes (592)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (590)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (588)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module InterchangeEditor (586)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (584)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (582)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (580)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module CollectionManager (579)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module SynthesisEditor (576)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module Synthesis (574)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ResonanceAudio (572)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (570)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (568)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (566)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (564)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ModelingOperators (562)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (560)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ModelingComponents (558)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (556)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module MeshModelingTools (554)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (552)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module GooglePAD (550)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (548)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (546)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (544)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module DynamicMesh (542)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (540)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module CableComponent (538)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (536)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module AssetTags (534)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module AudioCapture (532)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (531)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (528)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (526)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module AppleImageUtils (524)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module AndroidPermission (522)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (520)
+[2022.11.18-07.11.42:422][322]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (518)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module MediaCompositing (516)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module ImgMedia (514)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (510)
+[2022.11.18-07.11.42:423][322]LogOpenImageDenoise: OIDN shutting down
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (508)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (506)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (504)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (502)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module MeshLODToolset (500)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module LandmassEditor (498)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module Landmass (496)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (494)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (492)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (490)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (488)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (487)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (484)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module TemplateSequence (482)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (480)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module SequencerScripting (478)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (476)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (474)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module UObjectPlugin (472)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (470)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (468)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (466)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module PluginUtils (464)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (462)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module GitSourceControl (460)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (458)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (456)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (454)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module StylusInput (452)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (450)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module PluginBrowser (448)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (446)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (444)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (442)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (440)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (438)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (436)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module CryptoKeys (434)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (432)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module EditorDebugTools (430)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module ChaosNiagara (428)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module CurveEditorTools (426)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module FractureEditor (424)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (422)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module BackChannel (420)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (418)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module AutomationUtils (416)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (414)
+[2022.11.18-07.11.42:423][322]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (412)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (410)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module AlembicImporter (408)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module AlembicLibrary (407)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module GeometryCache (406)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (405)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module ControlRigSpline (400)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (398)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (396)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (394)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (392)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (390)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module Paper2DEditor (388)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (386)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (384)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module SoundFields (382)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module SignificanceManager (380)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (378)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (376)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (374)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (372)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (371)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (368)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (366)
+[2022.11.18-07.11.42:424][322]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (364)
+[2022.11.18-07.11.42:427][322]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (362)
+[2022.11.18-07.11.42:427][322]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (360)
+[2022.11.18-07.11.42:427][322]LogModuleManager: Shutting down and abandoning module PBIK (358)
+[2022.11.18-07.11.42:427][322]LogModuleManager: Shutting down and abandoning module FullBodyIK (356)
+[2022.11.18-07.11.42:427][322]LogModuleManager: Shutting down and abandoning module ActorSequence (354)
+[2022.11.18-07.11.42:427][322]LogModuleManager: Shutting down and abandoning module TcpMessaging (352)
+[2022.11.18-07.11.42:527][322]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2022.11.18-07.11.42:628][322]LogModuleManager: Shutting down and abandoning module AnimationSharing (348)
+[2022.11.18-07.11.42:628][322]LogModuleManager: Shutting down and abandoning module DataValidation (346)
+[2022.11.18-07.11.42:628][322]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2022.11.18-07.11.42:628][322]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2022.11.18-07.11.42:628][322]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (340)
+[2022.11.18-07.11.42:628][322]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (338)
+[2022.11.18-07.11.42:628][322]LogModuleManager: Shutting down and abandoning module LevelEditor (337)
+[2022.11.18-07.11.42:630][322]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (336)
+[2022.11.18-07.11.42:630][322]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (334)
+[2022.11.18-07.11.42:630][322]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2022.11.18-07.11.42:630][322]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2022.11.18-07.11.42:630][322]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2022.11.18-07.11.42:630][322]LogModuleManager: Shutting down and abandoning module TreeMap (325)
+[2022.11.18-07.11.42:630][322]LogModuleManager: Shutting down and abandoning module GameplayCameras (322)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module ContentBrowser (314)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module ToolMenus (313)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module ContentBrowserData (311)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module NiagaraCore (306)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (304)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module IKRig (302)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (300)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module ControlRig (298)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module LevelSequence (297)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (294)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module Paper2D (292)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (290)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (288)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module AndroidFileServer (286)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (284)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (282)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module PacketHandler (280)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module AnimationDataController (278)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (276)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (274)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module MediaAssets (272)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module Overlay (270)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module OverlayEditor (269)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module VREditor (266)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module StringTableEditor (264)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (262)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (260)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module FunctionalTesting (258)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (256)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (255)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module UMG (252)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module UMGEditor (251)
+[2022.11.18-07.11.42:631][322]LogModuleManager: Shutting down and abandoning module SlateReflector (246)
+[2022.11.18-07.11.42:632][322]LogModuleManager: Shutting down and abandoning module Slate (244)
+[2022.11.18-07.11.42:632][322]LogModuleManager: Shutting down and abandoning module SlateCore (242)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (240)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (238)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module UnrealEd (236)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module MRMesh (234)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module Messaging (232)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (230)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (228)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module Networking (226)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module Core (224)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module MaterialEditor (222)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module MovieSceneTools (220)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module CurveEditor (219)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module Sequencer (217)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module EditorStyle (216)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module KismetCompiler (212)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module MeshBuilder (210)
+[2022.11.18-07.11.42:633][322]LogModuleManager: Shutting down and abandoning module NaniteBuilder (208)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module MeshUtilities (206)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (205)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (204)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (203)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (201)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (199)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (197)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module MaterialBaking (193)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (188)
+[2022.11.18-07.11.42:634][322]LogModuleManager: Shutting down and abandoning module DerivedDataCache (186)
+[2022.11.18-07.11.42:636][322]LogModuleManager: Shutting down and abandoning module TargetPlatform (184)
+[2022.11.18-07.11.42:636][322]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (183)
+[2022.11.18-07.11.42:636][322]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (181)
+[2022.11.18-07.11.42:636][322]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (179)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (177)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (175)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module AudioFormatBink (173)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (171)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (169)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (167)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (165)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (163)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (161)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (159)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (157)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (155)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (153)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module TextureFormat (151)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (146)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (144)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (142)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module ImageWrapper (139)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module TurnkeySupport (135)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (126)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (125)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module Chaos (122)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module GeometryCore (121)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (118)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (117)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module AVEncoder (116)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module D3D12RHI (112)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (110)
+[2022.11.18-07.11.42:637][322]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (108)
+[2022.11.18-07.11.42:638][322]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (106)
+[2022.11.18-07.11.42:638][322]LogModuleManager: Shutting down and abandoning module HairStrandsCore (104)
+[2022.11.18-07.11.42:638][322]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (102)
+[2022.11.18-07.11.42:638][322]LogModuleManager: Shutting down and abandoning module ChunkDownloader (100)
+[2022.11.18-07.11.42:638][322]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2022.11.18-07.11.42:640][322]LogModuleManager: Shutting down and abandoning module Media (97)
+[2022.11.18-07.11.42:641][322]LogModuleManager: Shutting down and abandoning module Water (94)
+[2022.11.18-07.11.42:641][322]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (92)
+[2022.11.18-07.11.42:641][322]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.11.18-07.11.42:641][322]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (88)
+[2022.11.18-07.11.42:641][322]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.11.18-07.11.42:642][322]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.11.18-07.11.42:642][322]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.11.18-07.11.42:667][322]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.11.18-07.11.42:667][322]LogHttp: Warning: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2022.11.18-07.11.42:667][322]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B61613B60-403E-9314-F53E-1B8A8DC480DF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2da79449433cbbc39d2519b43b960aca%7Ced2494123d6741de8ccc3e80349350a7%7Cd425e193-759b-4141-87e2-8242b8f079d5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.11.18-07.11.42:667][322]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B61613B60-403E-9314-F53E-1B8A8DC480DF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2da79449433cbbc39d2519b43b960aca%7Ced2494123d6741de8ccc3e80349350a7%7Cd425e193-759b-4141-87e2-8242b8f079d5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.11.18-07.11.42:667][322]LogHttp: Warning: Cleaning up 2 outstanding Http requests.
+[2022.11.18-07.11.42:695][322]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module PixWinPlugin (72)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module ChaosCloth (68)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module VariantManagerContent (66)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module DatasmithContent (64)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.11.18-07.11.42:697][322]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.11.18-07.11.42:698][322]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.11.18-07.11.42:698][322]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.11.18-07.11.42:698][322]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.11.18-07.11.42:698][322]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.11.18-07.11.42:698][322]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.11.18-07.11.42:698][322]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.11.18-07.11.42:698][322]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.11.18-07.11.42:700][322]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.11.18-07.11.42:731][322]LogD3D12RHI: Display: D3D12 ReleaseResources: 228 items to release
+[2022.11.18-07.11.42:731][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1936 x 1056 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:731][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1936 x 1056 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:731][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1936 x 1056 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:733][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.18-07.11.42:733][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.18-07.11.42:733][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.18-07.11.42:733][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.18-07.11.42:734][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyCPUTexture", 5541848 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.18-07.11.42:734][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyTexture", 1526 x 902 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:734][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "BufferedRT", 1526 x 902 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:734][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 3056 x 1808 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2022.11.18-07.11.42:735][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.11.18-07.11.42:735][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 21 x 12 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:735][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 21 x 12 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:735][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.11.18-07.11.42:736][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 328 x 288 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:736][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 41 x 36 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.11.18-07.11.42:736][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 41 x 36 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.11.18-07.11.42:736][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1528 x 904 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:736][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1528 x 904 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:736][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1296 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:736][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1528 x 904 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.11.18-07.11.42:736][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1528 x 904 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.11.18-07.11.42:737][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1528 x 904 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:737][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1296 x 768 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.11.18-07.11.42:737][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1296 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:737][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1296 x 768 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:738][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1528 x 904 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:738][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1296 x 768 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:738][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1296 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:738][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:738][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:739][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1296 x 768 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:739][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:739][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:739][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:739][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:740][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:740][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:740][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:740][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:740][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:740][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:740][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:741][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:741][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:741][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:741][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:742][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:742][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:742][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:742][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:742][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:742][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:743][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:743][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:743][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:744][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:744][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:744][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:744][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:744][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:745][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:745][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:745][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:745][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:745][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:746][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:746][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:746][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:747][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:747][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:747][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:747][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:747][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:748][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:748][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:748][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:748][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:749][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:749][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:749][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:749][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:750][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:750][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:750][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:750][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:751][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:751][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:751][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:751][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:751][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:752][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:752][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:752][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:752][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:753][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:753][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:753][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:753][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:754][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:754][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:754][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:754][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:754][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:754][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.11.18-07.11.42:755][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:755][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:755][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:755][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_0", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:755][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:755][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:756][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:756][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:756][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:756][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:756][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:756][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:756][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:756][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:757][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:757][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:757][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:757][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.11.18-07.11.42:757][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.11.18-07.11.42:757][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:757][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 1528 x 904 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:757][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1528 x 904 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:758][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1528 x 904 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:758][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 3056 x 1808 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2022.11.18-07.11.42:758][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:758][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1528 x 904 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.11.18-07.11.42:758][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1528 x 904 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.11.18-07.11.42:758][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1528 x 904 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:759][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1296 x 768 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.11.18-07.11.42:759][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1296 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:759][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaft.TemporalAA", 648 x 384 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:759][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 1296 x 768 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:759][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1296 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:759][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1296 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:760][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1296 x 768 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:760][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:760][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.11.18-07.11.42:760][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:761][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:761][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.11.18-07.11.42:761][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.11.18-07.11.42:761][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 648 x 383 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.11.18-07.11.42:761][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 2048 x 2048 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.11.18-07.11.42:761][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 2048 x 2048 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:762][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2304 x 2304 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:762][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 648 x 383 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:762][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1296 x 768 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:762][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 324 x 192 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.11.18-07.11.42:763][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 324 x 192 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2022.11.18-07.11.42:763][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 648 x 383 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:763][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 648 x 383 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.11.18-07.11.42:763][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.11.18-07.11.42:763][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.11.18-07.11.42:763][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1296 x 768 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.11.18-07.11.42:764][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 41 x 36 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.11.18-07.11.42:764][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 41 x 36 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.11.18-07.11.42:764][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 328 x 288 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:764][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 1296 x 768 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2022.11.18-07.11.42:764][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.11.18-07.11.42:764][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 21 x 12 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:764][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 21 x 12 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:765][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.11.18-07.11.42:765][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 256, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:765][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldCoverageAtlas", 256 x 256 x 128, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:766][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.11.18-07.11.42:766][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:766][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.11.18-07.11.42:766][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.11.18-07.11.42:766][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:767][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1528 x 904 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:767][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1296 x 768 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:767][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:767][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:767][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:768][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:768][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:768][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:769][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:769][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:769][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:769][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:769][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:769][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:770][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:770][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:770][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:770][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 2048 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.11.18-07.11.42:771][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.11.18-07.11.42:771][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2022.11.18-07.11.42:772][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2022.11.18-07.11.42:772][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2022.11.18-07.11.42:773][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2022.11.18-07.11.42:773][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2022.11.18-07.11.42:774][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.11.18-07.11.42:775][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.11.18-07.11.42:775][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2022.11.18-07.11.42:775][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.11.18-07.11.42:776][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.11.18-07.11.42:776][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget0", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2022.11.18-07.11.42:776][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.CapturedSkyRenderTarget", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2022.11.18-07.11.42:776][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget1", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2022.11.18-07.11.42:776][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.11.18-07.11.42:776][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.11.18-07.11.42:776][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:777][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:777][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:777][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:777][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.11.18-07.11.42:777][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:777][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDraw.IndirectBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:777][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FixupProbeBordersIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:778][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionResolveTileIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:778][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:778][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionTracingTileIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:778][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:778][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactRayTraceDispatchIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:778][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainAndPostNodesAndClusterBatchesBuffer", 44040192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:779][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceCacheHardwareRayTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:779][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.ProcessGPUInstanceInvalidationsIndirectArgs", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.11.18-07.11.42:779][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.18-07.11.42:779][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.18-07.11.42:779][322]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.11.18-07.11.42:866][322]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.11.18-07.11.42:866][322]LogExit: Exiting.
+[2022.11.18-07.11.42:878][322]Log file closed, 11/18/22 01:11:42
