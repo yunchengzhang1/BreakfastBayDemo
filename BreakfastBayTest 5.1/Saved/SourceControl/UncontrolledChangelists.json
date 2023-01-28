@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ary00/Documents/Unreal Projects/BreakfastBayDemo/BreakfastBayTest 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ary00/Documents/Unreal Projects/BreakfastBayDemo/BreakfastBayTest 5.1/Content/ThirdPerson/Blueprints/Player.uasset",
+				"C:/Users/ary00/Documents/Unreal Projects/BreakfastBayDemo/BreakfastBayTest 5.1/Content/Sub_plus/PlayerBP.uasset",
+				"C:/Users/ary00/Documents/Unreal Projects/BreakfastBayDemo/BreakfastBayTest 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
