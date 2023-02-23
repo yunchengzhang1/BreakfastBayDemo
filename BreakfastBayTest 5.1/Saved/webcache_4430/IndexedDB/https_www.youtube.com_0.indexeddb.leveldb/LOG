@@ -1,0 +1,6 @@
+2023/02/13-21:37:03.218 106f0 Creating DB D:/Epic Games/UE_5.0/BreakfastBayDemo/BreakfastBayTest 5.1/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/02/13-21:37:03.226 106f0 Reusing MANIFEST D:/Epic Games/UE_5.0/BreakfastBayDemo/BreakfastBayTest 5.1/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/13-21:39:06.377 106f0 Level-0 table #5: started
+2023/02/13-21:39:06.381 106f0 Level-0 table #5: 7450 bytes OK
+2023/02/13-21:39:06.384 106f0 Delete type=0 #3
+2023/02/13-21:39:06.384 106f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
